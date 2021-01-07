@@ -20,7 +20,9 @@
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
-<!-- téttstr ádfdafdafd-->
+
+<!-- téttstrdfdfsafd -->
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
